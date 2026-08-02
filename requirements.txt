@@ -1,0 +1,4 @@
+# No external Python packages required.
+# Requires:
+# Python 3.x
+# Nmap installed and available in PATH
