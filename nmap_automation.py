@@ -18,7 +18,11 @@ Only enter:
 2. Report File Name
 
 =====================================================
+Important Note:
 
+This tool performs multiple Nmap scans and gathers detailed information about the target. Depending on the target and network conditions, the scan may take some time to complete.
+
+Please be patient and wait until the scan finishes.
 """)
 try:
  target=input("Enter the target IP adress: ")
