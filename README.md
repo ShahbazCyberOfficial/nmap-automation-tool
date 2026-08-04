@@ -58,7 +58,7 @@ The tool automatically performs the scan and saves the results.
 
 For installation instructions:
 
-➡️ **[Installation Guide](install.md)**
+➡️ **[Installation Guide](INSTALL.md)**
 
 ---
 
