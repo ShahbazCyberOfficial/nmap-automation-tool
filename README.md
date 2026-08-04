@@ -142,7 +142,7 @@ Your support motivates future development.
 
 ---
 
-## 👤 Author
+## 👨‍💻 Author
 
 **Shahbaz Bhutta**
 
